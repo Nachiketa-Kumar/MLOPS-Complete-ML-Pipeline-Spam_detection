@@ -1,4 +1,6 @@
 [core]
     remote = dvcstore
+[cache]
+    dir = C:\Users\Nachiketa Kumar\.dvc_cache
 ['remote "dvcstore"']
     url = s3://dvc-s3-proj
